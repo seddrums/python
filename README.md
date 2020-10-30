@@ -1,2 +1,2 @@
 # python
-Python learning
+Here is my practices with python
